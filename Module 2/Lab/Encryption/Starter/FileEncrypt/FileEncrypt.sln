@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29827.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileEncrypt", "FileEncrypt\FileEncrypt.csproj", "{1BF1BAAA-9E50-4765-9B7E-D9E8BBFD3FEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{96ADF589-C263-40D2-8AF5-7C76708B7B1A}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF1BAAA-9E50-4765-9B7E-D9E8BBFD3FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF1BAAA-9E50-4765-9B7E-D9E8BBFD3FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF1BAAA-9E50-4765-9B7E-D9E8BBFD3FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF1BAAA-9E50-4765-9B7E-D9E8BBFD3FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55CECEBE-4299-4E96-9739-74364FFA62B6}
+	EndGlobalSection
+EndGlobal

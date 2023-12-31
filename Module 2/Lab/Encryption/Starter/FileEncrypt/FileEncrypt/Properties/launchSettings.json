@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileEncrypt": {
+      "commandName": "Project",
+      "commandLineArgs": "encrypt -o File.cpr -p IDontWannaDoThisBrther -f File.txt"
+    }
+  }
+}

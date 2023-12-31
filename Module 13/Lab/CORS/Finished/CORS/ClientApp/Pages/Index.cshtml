@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p><button id="get" class="btn btn-primary">GET customers</button>&nbsp;
+    <button id="delete" class="btn btn-danger">DELETE customer 1</button></p>
+    <code id="result"></code>
+</div>
+<script>
+  document.getElementById('get').addEventListener('click', ()=>{
+    const result = fetch("https://localhost:7240/api/customers?limit=50").then(resp=>resp.json()).then(json=>
+      document.getElementById('result').innerText = JSON.stringify(json)
+    ).catch(err=> document.getElementById('result').innerText = err);
+  })
+  document.getElementById('delete').addEventListener('click', ()=>{
+    const result = fetch("https://localhost:7240/api/customers/1", {method:"DELETE"}).then(resp=>resp.json()).then(json=>
+      document.getElementById('result').innerText = JSON.stringify(json)
+    ).catch(err=> document.getElementById('result').innerText = err);
+  })
+</script>

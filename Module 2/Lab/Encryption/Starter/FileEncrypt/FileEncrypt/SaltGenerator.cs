@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Security.Cryptography;
+using System.Text;
+
+namespace FileEncrypt
+{
+    public class SaltGenerator : ISaltGenerator
+    {
+        public byte[] GenerateSalt(int keyLength)
+        {
+            return RandomNumberGenerator.GetBytes(keyLength);
+        }
+    }
+}

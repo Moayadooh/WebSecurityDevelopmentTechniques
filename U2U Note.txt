@@ -1,0 +1,70 @@
+
+Web camps using Default username and passwords:
+http://www.insecam.org/
+
+MOQ library for testing
+
+Script Kiddies:
+an individual with little to no technical expertise using pre-existing automated tools or scripts to launch attacks on computer systems or networks.
+
+Bug Bounties:
+https://www.intigriti.com/
+
+check if apk app not manipulated:
+https://www.apkmirror.com/
+
+do not store keys in appsetting.json
+
+anti-virus will check sinature of file
+
+Password formats:
+https://xkcd.com/
+
+uniqness in the internet:
+https://amiunique.org/fingerprint
+
+physcal tools for hacker:
+https://www.hackshop.com/
+
+use hashing for password not encyption
+
+most used password in 2023 is '123456'
+
+lockup table attack:
+check the most repatable passeord in the database
+
+salt is random charatcers follwoed by each password
+
+salt used to avoid lockup table attack
+
+app.useHsts() --> used to prevent user from access the website using http
+https://hstspreload.org/
+
+CSP --> content secuity poicies
+prevent injecting js from outside
+
+check where my email is used:
+https://haveibeenpwned.com/
+
+https://duendesoftware.com/products/identityserver
+
+https will prevent man in the middle attack
+
+https://jsfuck.com/
+
+valid JS in HTML:
+<img src=javascript:alert(document.domain)>
+<link rel=stylesheet href="javascript:alert(document.domain)">
+
+https://smallpdf.com/jpg-to-pdf
+
+Demo and Lab:
+- Module 2
+- Module 4
+- Module 5
+- Module 7
+- Module 9
+- Module 10
+- Module 11
+- Module 13
+- Module 15

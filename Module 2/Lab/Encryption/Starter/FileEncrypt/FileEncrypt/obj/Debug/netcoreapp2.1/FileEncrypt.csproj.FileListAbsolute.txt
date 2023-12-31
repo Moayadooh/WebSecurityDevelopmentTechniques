@@ -1,0 +1,11 @@
+C:\Code\LiveDemos\FileEncrypt\FileEncrypt\bin\Debug\netcoreapp2.1\FileEncrypt.deps.json
+C:\Code\LiveDemos\FileEncrypt\FileEncrypt\bin\Debug\netcoreapp2.1\FileEncrypt.runtimeconfig.json
+C:\Code\LiveDemos\FileEncrypt\FileEncrypt\bin\Debug\netcoreapp2.1\FileEncrypt.runtimeconfig.dev.json
+C:\Code\LiveDemos\FileEncrypt\FileEncrypt\bin\Debug\netcoreapp2.1\FileEncrypt.dll
+C:\Code\LiveDemos\FileEncrypt\FileEncrypt\obj\Debug\netcoreapp2.1\FileEncrypt.csprojAssemblyReference.cache
+C:\Code\LiveDemos\FileEncrypt\FileEncrypt\obj\Debug\netcoreapp2.1\FileEncrypt.csproj.CoreCompileInputs.cache
+C:\Code\LiveDemos\FileEncrypt\FileEncrypt\obj\Debug\netcoreapp2.1\FileEncrypt.AssemblyInfoInputs.cache
+C:\Code\LiveDemos\FileEncrypt\FileEncrypt\obj\Debug\netcoreapp2.1\FileEncrypt.AssemblyInfo.cs
+C:\Code\LiveDemos\FileEncrypt\FileEncrypt\bin\Debug\netcoreapp2.1\FileEncrypt.pdb
+C:\Code\LiveDemos\FileEncrypt\FileEncrypt\obj\Debug\netcoreapp2.1\FileEncrypt.dll
+C:\Code\LiveDemos\FileEncrypt\FileEncrypt\obj\Debug\netcoreapp2.1\FileEncrypt.pdb

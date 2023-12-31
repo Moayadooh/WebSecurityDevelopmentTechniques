@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPc3a39cyG6tQnMHAUcvbQN4wnARRXRxdf6WSFGeOanYmEdHSueb6ELaTniEhhJbN/SgaPEggyaEiSEoa4osmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muayad\\Downloads\\Encryption\\Starter\\FileEncrypt\\FileEncrypt\\FileEncrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muayad\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
